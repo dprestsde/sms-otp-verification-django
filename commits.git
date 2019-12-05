@@ -1,0 +1,23 @@
+commit e66a6c81d018c349f6d90b1e733cdd34a964897f
+Author: Deepak-venkayya-naidu-puppala <17pa1a1248@vishnu.edu.in>
+Date:   Thu Dec 5 11:13:28 2019 +0530
+
+    view for otp verification
+
+commit e1d76ea0343f7544463514522648c3f5bd0ee649
+Author: Deepak-venkayya-naidu-puppala <17pa1a1248@vishnu.edu.in>
+Date:   Thu Dec 5 10:45:25 2019 +0530
+
+    view for sending otp
+
+commit b46f06b8beadfb36f0dc9e564e288c05cd098234
+Author: Deepak-venkayya-naidu-puppala <17pa1a1248@vishnu.edu.in>
+Date:   Thu Dec 5 09:56:17 2019 +0530
+
+    rest and cors setup
+
+commit 61c0e483266e2f47d7256f4f26a332834e809bfa
+Author: Deepak-venkayya-naidu-puppala <17pa1a1248@vishnu.edu.in>
+Date:   Thu Dec 5 09:46:11 2019 +0530
+
+    django project setup
